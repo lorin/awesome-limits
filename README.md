@@ -67,7 +67,7 @@ ipconntrack. [@shanemhansen](https://twitter.com/shanemhansen/status/13328127788
 
 Load balancer license connection limits. [Franklin Wirtz](https://twitter.com/franklinwirtz/status/1332793886595444736)
 
-Postgres(?) Wal senders. [Max Knee](https://twitter.com/maxknee/status/1332851399026208768)
+Wal senders. [Max Knee](https://twitter.com/maxknee/status/1332851399026208768)
 
 Kernel udp rx buffer size. [@sjoeboo](https://twitter.com/sjoeboo/status/1332800957760081924)
 
