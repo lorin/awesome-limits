@@ -23,7 +23,7 @@ Ports. [@qudooschaudhry](https://twitter.com/qudooschaudhry), [Alex Hidalgo](htt
 
 TCP connections. [Sheeri K. Cabral](https://twitter.com/sheeri/status/1332882656200159232), [@Pluto_Berlin](https://twitter.com/Pluto_Berlin/status/1332842844751585281)
 
-Threads. [@dbmasher](https://twitter.com/dbsmasher/status/1332787577934344192), [David Bezley](https://twitter.com/dabeaz/status/1333054692633563139)
+Threads. [@dbsmasher](https://twitter.com/dbsmasher/status/1332787577934344192), [David Bezley](https://twitter.com/dabeaz/status/1333054692633563139)
 
 Entropy pool. [Justin Manchester](https://twitter.com/JuMaUK/status/1332798142958477316), [Petru Ratiu](https://twitter.com/rpetre/status/1332798387398340609)
 
