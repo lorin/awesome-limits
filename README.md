@@ -1,5 +1,7 @@
 # limits
 
+## Preamble
+
 Everything has limits, including software systems. When you hit these limits, bad things can happen.
 
 You've probably hit memory and disk limits, but those aren't the only ones.
@@ -7,6 +9,7 @@ You've probably hit memory and disk limits, but those aren't the only ones.
 This page lists limits that, when breached, led to someone having a bad time. I [tweeted](https://twitter.com/lhochstein/status/1332781588246097927) about limits and
 got all sorts of interesting responses. This page contains some of them, with links to the tweets, which often contain more details.
 
+## Examples of limits that have been breached with ill consequences
 
 inodes. [@aegis](https://twitter.com/ageis/status/1332931216014790656), [Alex Elman](https://twitter.com/_pkill/status/1332784570371100674), [Benjamin Stein](https://twitter.com/benstein/status/1332840496956260354), [Thomas Attree](https://twitter.com/attree/status/1332986131068186629), [@dmolnar](https://twitter.com/dmolnar/status/1332788022232936450), [@anotherwalther](https://twitter.com/anotherwalther/status/1332785877811142659), [Jinsy Oommen](https://twitter.com/thegoodoommen/status/1332797783552765967), [Rafael Jesus](https://twitter.com/_jesus_rafael/status/1332799734302584834), [Ondrej Kokes](https://twitter.com/pndrej/status/1333132013231026178), [Peter Wang](https://twitter.com/pwang/status/1333038343416934403), [Cadey A. Ratio](https://twitter.com/theprincessxena/status/1333017957514043392), [@williamsjoe](https://twitter.com/williamsjoe/status/1332829443748896768), [Nic Wise](https://twitter.com/fastchicken/status/1332821356681994240), [ericdennis](https://twitter.com/ericdennis/status/1332796988429983744)
 
