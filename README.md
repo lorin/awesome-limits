@@ -27,7 +27,7 @@ Threads. [@dbmasher](https://twitter.com/dbsmasher/status/1332787577934344192), 
 
 Entropy pool. [Justin Manchester](https://twitter.com/JuMaUK/status/1332798142958477316), [Petru Ratiu](https://twitter.com/rpetre/status/1332798387398340609)
 
-Shebang length limit. [@bengerman13](https://twitter.com/bengerman13/status/1332794119094153221), [Anthony Sottile](https://twitter.com/codewithanthony/status/1332832546086797312?s=20)
+Shebang length. [@bengerman13](https://twitter.com/bengerman13/status/1332794119094153221), [Anthony Sottile](https://twitter.com/codewithanthony/status/1332832546086797312?s=20)
 
 Virtual memory. [@shanemhansen](https://twitter.com/shanemhansen/status/1332812554251321344), [@williamsjoe](https://twitter.com/williamsjoe/status/1332829443748896768)
 
