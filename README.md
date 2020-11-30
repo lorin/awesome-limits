@@ -39,7 +39,7 @@ Environment variable size. [Glen Mailer](https://twitter.com/glenathan/status/13
 
 Java ring buffer size. [Richard Tibbetts](https://twitter.com/tibbetts/status/1332808950027268096)
 
-.NET framework threadpool I/O commpletion port limit. [Brandon Paddock](https://twitter.com/BrandonLive/status/1333102381597245441)
+.NET framework threadpool I/O completion port limit. [Brandon Paddock](https://twitter.com/BrandonLive/status/1333102381597245441)
 
 SQL Server buffer cache [Dave Poole](https://twitter.com/DavidJPoole/status/1332958574214049794)
 
