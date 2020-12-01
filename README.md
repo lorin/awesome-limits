@@ -96,3 +96,5 @@ AWS EC2 instance count limits. [Nic Wise](https://twitter.com/fastchicken/status
 Time Wait Assasination. [John Allspaw](https://twitter.com/allspaw/status/1332789693474332674)
 
 Semaphores. [@rknayyar](https://twitter.com/rknayyar/status/1333003544903954434)
+
+Number of OS threads. [AWS 2020-11-25](https://aws.amazon.com/message/11201/). 
