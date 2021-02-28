@@ -1,4 +1,4 @@
-# limits
+# awesome limits
 
 ## Preamble
 
@@ -97,4 +97,4 @@ Time Wait Assasination. [John Allspaw](https://twitter.com/allspaw/status/133278
 
 Semaphores. [@rknayyar](https://twitter.com/rknayyar/status/1333003544903954434)
 
-Number of OS threads. [AWS 2020-11-25](https://aws.amazon.com/message/11201/). 
+Number of OS threads. [AWS 2020-11-25](https://aws.amazon.com/message/11201/)
